@@ -16,3 +16,7 @@ plt.axis([0, 5100, 0, 5100**3])
 
 # Show plot.
 plt.show()
+
+
+
+This Python code creates a graph about cubes using matplotlib 
