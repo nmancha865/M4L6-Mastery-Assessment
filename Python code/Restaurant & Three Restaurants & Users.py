@@ -80,3 +80,9 @@ eric.greet_user()
 willie = User('willie', 'burger', 'willieburger', 'wb@example.com', 'alaska')
 willie.describe_user()
 willie.greet_user()
+
+
+
+
+
+This Python code shows messages of multiple restaurant names and creates profiles and a welcome back message for the profiles.
