@@ -55,3 +55,7 @@ fig = px.scatter_geo(lat=lats, lon=lons, size=brights, title=title,
 
 # Display the plot
 fig.show()
+
+
+
+This Python code creates a world map of fires across the world from one day and plots based on how bright they where
