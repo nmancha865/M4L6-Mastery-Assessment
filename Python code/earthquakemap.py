@@ -109,3 +109,9 @@ def visualize_eq_data(period='daily', region='Worldwide', min_mag=1):
     return None
 
 visualize_eq_data()
+
+
+
+
+
+this code creates a map of the world showing all the earthquakes from a month from at least one magnitude to the highest.
