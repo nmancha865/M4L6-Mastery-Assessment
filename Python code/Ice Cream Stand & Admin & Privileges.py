@@ -178,3 +178,8 @@ eric_privileges = [
     ]
 eric.privileges.privileges = eric_privileges
 eric.privileges.show_privileges()
+
+
+
+
+this code creates a list of multiple thing like a list of ice cream flavors, and profle accounts that show if they have prviliges
