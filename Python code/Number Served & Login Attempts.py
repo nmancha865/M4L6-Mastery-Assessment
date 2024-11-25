@@ -83,3 +83,6 @@ print("  Login attempts: " + str(eric.login_attempts))
 print("Resetting login attempts...")
 eric.reset_login_attempts()
 print("  Login attempts: " + str(eric.login_attempts))
+
+
+this python code shows how many pizzas were served, it creates a profile and shows shows the accounts login attempts
